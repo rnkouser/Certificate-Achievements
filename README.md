@@ -17,6 +17,10 @@ Each certificate in this repository reflects a commitment to self-improvement an
 
 Feel free to explore the **Certifications** folder to view individual certificates. Each file is named and categorized for easy navigation.
 
+## 🌱 Continuous Learning Journey
+
+The journey of learning never truly ends. As I continue to evolve and grow in my career, there are many more certifications to come. This repository will be regularly updated with new achievements that reflect my dedication to continuous learning and professional development.
+
 ## 🤝 Let's Connect
 
 If you'd like to know more about my journey, connect with me on [LinkedIn](www.linkedin.com/in/rn-kouser-63a881249)
@@ -25,5 +29,5 @@ or check out my [Portfolio Website](https://rnkouser.github.io/Portfolio/).
 
 ---
 
-Happy learning and cheers to new achievements! 🌟
+
 
