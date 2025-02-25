@@ -23,7 +23,7 @@ The journey of learning never truly ends. As I continue to evolve and grow in my
 
 ## 🤝 Let's Connect
 
-If you'd like to know more about my journey, connect with me on [LinkedIn](www.linkedin.com/in/rn-kouser-63a881249)
+If you'd like to know more about my journey, connect with me on [LinkedIn](http://www.linkedin.com/in/rahila-naeem-kouser-63a881249)
 
 or check out my [Portfolio Website](https://rnkouser.github.io/Portfolio/).
 
